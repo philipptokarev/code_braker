@@ -1,0 +1,15 @@
+---
+- !ruby/object:Entities::User
+  name: phil
+  attempts: 5
+  attempts_used: 1
+  hints: 1
+  hints_used: 0
+  difficulty: hell
+- !ruby/object:Entities::User
+  name: sasha
+  attempts: 15
+  attempts_used: 6
+  hints: 2
+  hints_used: 0
+  difficulty: easy
